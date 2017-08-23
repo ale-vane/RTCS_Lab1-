@@ -1,6 +1,9 @@
 #incluide "hola.h"
 void main ()
 {
-printf ("Control es la ley");
+int i=0;
+for (i=0;i<7;i++){
 
+printf ("Control es la ley");
+}
 }
