@@ -2,6 +2,7 @@
 void main ()
 {
 printf ("Control es la ley");
+delay (500):
+printf ("Control es al ley otra vez");
 
-}
 }
