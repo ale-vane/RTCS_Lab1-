@@ -1,3 +1,4 @@
+#include "hola.h"
 void main ()
 {
 printf ("Control es la ley");
