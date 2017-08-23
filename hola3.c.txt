@@ -1,7 +1,11 @@
 
 void main ()
 {
-printf ("Hola final");
-);
+printf ("rojo");
+delay (100);
+printf ("verde");
+delay (500);
+printf ("Amarillo");
+delay (150);
 
 }
