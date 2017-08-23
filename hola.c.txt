@@ -1,0 +1,5 @@
+void main ()
+{
+printf ("Control es la ley");
+
+}
